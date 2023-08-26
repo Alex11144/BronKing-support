@@ -7,17 +7,25 @@ telegram chat : [Telegram](https://t.me/bronkingsupport)
 
 
 F.A.Q.
-How can I book a sports field?                            
-Choose the most suitable field for you on the main page of the application, go to its page, select the appropriate date and time for booking, and then pay a deposit for the booking.
-How is the booking payment processed?                                
-Payment is made online using a card. To confirm your booking, you will need to make a deposit equal to 10% of the total cost.
-Can I change the date and time of my booking?                     
-If you want to change the date or time of your booking, you need to cancel the previous booking and make a new booking for the field.
-Can I cancel my booking?                           
-Yes, you can cancel your booking, but no later than 3 hours before the start of the reserved time.
-Will I get a refund for my deposit if I cancel my booking?                          
-No, the deposit is not refunded when you cancel your booking.
-What should I do if I can't find available time for booking?                            
-The available hours are shown on the page of each field. If the time you need is not displayed, it means that all the hours are already booked. You can check another field or come back later to see if new available hours have opened up.
-How can I contact you?                         
-You can only contact us through the Telegram chat in the application.
+1. Acceptance of Terms:
+By using the Evet app, you agree to abide by these Terms of Use.
+
+2. Use of the App:
+You agree to use the app for lawful purposes and not to engage in any activities that may disrupt or compromise its functionality.
+
+3. Account Creation:
+You are responsible for maintaining the confidentiality of your account information. You agree to notify us of any unauthorized use of your account.
+
+4. Intellectual Property:
+All app content, including text, images, logos, and trademarks, is the property of Evet and protected by intellectual property laws.
+
+5. Limitation of Liability:
+We are not liable for any damages arising from app use or unavailability, including direct, indirect, incidental, or consequential damages.
+
+6. Changes to Terms:
+We reserve the right to modify these Terms of Use at any time. Continued use of the app after changes constitutes acceptance of the modified terms.
+
+7. Governing Law:
+These Terms of Use are governed by the laws of [your jurisdiction].
+
+Please remember that this is a basic template, and you should customize it to accurately reflect your app's features and adhere to legal requirements in your jurisdiction. Consult with a legal professional to ensure compliance.
